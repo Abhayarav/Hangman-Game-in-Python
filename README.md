@@ -1,4 +1,4 @@
-# Hangman-Game-in-Python
+# Hangman-Game-in-Python code update available
 This is a simple Hangman game using Python programming language.
 The Hangman program randomly selects a secret word from a list of secret words.
 When a letter in that word is guessed correctly, that letter position in the word is made visible.
